@@ -1,0 +1,49 @@
+/* container styles */
+.container {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* heading styles */
+  h2 {
+    margin-top: 0;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* paragraph styles */
+  p {
+    margin-bottom: 20px;
+  }
+  
+  /* button styles */
+  .btn {
+    margin-right: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* danger button styles */
+  .btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  
+  /* secondary button styles */
+  .btn-secondary {
+    background-color: #6c757d;
+    color: #fff;
+  }
+  
+  /* hover effects */
+  .btn:hover {
+    opacity: 0.8;
+  }
